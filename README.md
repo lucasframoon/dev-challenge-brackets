@@ -1,12 +1,3 @@
-<div align="center">
-  <img src="https://revobeautytech.com.br/assinaturas/logo-jfy.png">
-</div>
-
----
-
-<div align="center">
-  <h1>⚗️ JustForYou Dev Challenge</h1>
-</div>
 
 <div align="center">
     Balanceamento de Brackets
